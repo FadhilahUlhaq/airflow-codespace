@@ -20,3 +20,122 @@
 [2025-04-19T08:43:06.839+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:43:06.839+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-04-19T08:43:06.868+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:43:06.868+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
 [2025-04-19T08:43:06.887+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.086 seconds
+[2025-04-19T08:43:37.359+0000] {processor.py:186} INFO - Started process (PID=791) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:43:37.360+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:43:37.363+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:43:37.363+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:43:37.373+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:43:37.394+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:43:37.394+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:43:37.459+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:43:37.459+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:43:37.477+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.132 seconds
+[2025-04-19T08:44:07.852+0000] {processor.py:186} INFO - Started process (PID=855) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:44:07.857+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:44:07.862+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:44:07.862+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:44:07.906+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:44:07.953+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:44:07.953+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:44:08.049+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:44:08.049+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:44:08.077+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.236 seconds
+[2025-04-19T08:44:38.545+0000] {processor.py:186} INFO - Started process (PID=918) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:44:38.546+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:44:38.548+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:44:38.548+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:44:38.557+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:44:38.577+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:44:38.577+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:44:38.610+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:44:38.609+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:44:38.630+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.090 seconds
+[2025-04-19T08:45:08.816+0000] {processor.py:186} INFO - Started process (PID=982) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:45:08.816+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:45:08.818+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:45:08.818+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:45:08.828+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:45:08.848+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:45:08.848+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:45:08.885+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:45:08.882+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:45:08.903+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.093 seconds
+[2025-04-19T08:45:39.369+0000] {processor.py:186} INFO - Started process (PID=1046) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:45:39.369+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:45:39.372+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:45:39.371+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:45:39.385+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:45:39.411+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:45:39.410+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:45:39.443+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:45:39.443+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:45:39.462+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.099 seconds
+[2025-04-19T08:46:09.657+0000] {processor.py:186} INFO - Started process (PID=1110) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:46:09.658+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:46:09.660+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:46:09.660+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:46:09.670+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:46:09.691+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:46:09.690+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:46:09.720+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:46:09.720+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:46:09.741+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.089 seconds
+[2025-04-19T08:46:39.858+0000] {processor.py:186} INFO - Started process (PID=1174) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:46:39.859+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:46:39.861+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:46:39.861+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:46:39.871+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:46:39.891+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:46:39.891+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:46:39.935+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:46:39.935+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:46:39.953+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.100 seconds
+[2025-04-19T08:47:10.269+0000] {processor.py:186} INFO - Started process (PID=1238) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:47:10.269+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:47:10.271+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:47:10.271+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:47:10.280+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:47:10.301+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:47:10.300+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:47:10.345+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:47:10.345+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:47:10.362+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.099 seconds
+[2025-04-19T08:47:40.883+0000] {processor.py:186} INFO - Started process (PID=1302) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:47:40.884+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:47:40.886+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:47:40.886+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:47:40.896+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:47:40.920+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:47:40.919+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:47:40.966+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:47:40.965+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:47:40.988+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.111 seconds
+[2025-04-19T08:48:11.162+0000] {processor.py:186} INFO - Started process (PID=1367) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:48:11.162+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:48:11.164+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:48:11.164+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:48:11.174+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:48:11.196+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:48:11.196+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:48:11.239+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:48:11.239+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:48:11.266+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.110 seconds
+[2025-04-19T08:48:42.079+0000] {processor.py:186} INFO - Started process (PID=1431) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:48:42.080+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:48:42.082+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:48:42.082+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:48:42.092+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:48:42.113+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:48:42.113+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:48:42.142+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:48:42.142+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:48:42.160+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.087 seconds
+[2025-04-19T08:49:12.433+0000] {processor.py:186} INFO - Started process (PID=1495) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:49:12.435+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:49:12.440+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:49:12.439+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:49:12.453+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:49:12.505+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:49:12.505+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:49:12.547+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:49:12.547+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:49:12.583+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.162 seconds
+[2025-04-19T08:49:42.772+0000] {processor.py:186} INFO - Started process (PID=1556) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:49:42.773+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:49:42.776+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:49:42.775+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:49:42.786+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:49:42.807+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:49:42.807+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:49:42.837+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:49:42.836+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:49:42.854+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.088 seconds
+[2025-04-19T08:50:12.959+0000] {processor.py:186} INFO - Started process (PID=1615) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:50:12.959+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:50:12.962+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:50:12.961+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:50:12.970+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:50:12.991+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:50:12.991+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:50:13.020+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:50:13.020+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:50:13.040+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.087 seconds
+[2025-04-19T08:50:43.458+0000] {processor.py:186} INFO - Started process (PID=1679) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:50:43.459+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:50:43.461+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:50:43.461+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:50:43.470+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:50:43.491+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:50:43.491+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:50:43.521+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:50:43.521+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:50:43.541+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.093 seconds
+[2025-04-19T08:51:14.148+0000] {processor.py:186} INFO - Started process (PID=1742) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:51:14.148+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:51:14.152+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:51:14.152+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:51:14.161+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:51:14.188+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:51:14.187+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:51:14.217+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:51:14.217+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:51:14.248+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.106 seconds
+[2025-04-19T08:51:44.413+0000] {processor.py:186} INFO - Started process (PID=1806) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:51:44.413+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:51:44.415+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:51:44.415+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:51:44.422+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:51:44.438+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:51:44.437+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:51:44.457+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:51:44.457+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:51:44.470+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.062 seconds
