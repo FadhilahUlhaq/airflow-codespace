@@ -1,0 +1,22 @@
+[2025-04-19T08:42:35.275+0000] {processor.py:186} INFO - Started process (PID=674) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:42:35.275+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:42:35.277+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.277+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:42:35.285+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:42:35.371+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.370+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:Hello_World_Ulhaq
+[2025-04-19T08:42:35.378+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.378+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:Hello_World_Ulhaq
+[2025-04-19T08:42:35.383+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.382+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:Hello_World_Ulhaq
+[2025-04-19T08:42:35.388+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.388+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:Hello_World_Ulhaq
+[2025-04-19T08:42:35.392+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.392+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:Hello_World_Ulhaq
+[2025-04-19T08:42:35.397+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.397+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:Hello_World_Ulhaq
+[2025-04-19T08:42:35.401+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.401+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:Hello_World_Ulhaq
+[2025-04-19T08:42:35.402+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.401+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:42:35.412+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.412+0000] {dag.py:3262} INFO - Creating ORM DAG for Hello_World_Ulhaq
+[2025-04-19T08:42:35.420+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:42:35.420+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:42:35.434+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.166 seconds
+[2025-04-19T08:43:06.806+0000] {processor.py:186} INFO - Started process (PID=733) to work on /opt/airflow/dags/hello.py
+[2025-04-19T08:43:06.807+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/hello.py for tasks to queue
+[2025-04-19T08:43:06.810+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:43:06.809+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/hello.py
+[2025-04-19T08:43:06.818+0000] {processor.py:925} INFO - DAG(s) 'Hello_World_Ulhaq' retrieved from /opt/airflow/dags/hello.py
+[2025-04-19T08:43:06.839+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:43:06.839+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-19T08:43:06.868+0000] {logging_mixin.py:190} INFO - [2025-04-19T08:43:06.868+0000] {dag.py:4180} INFO - Setting next_dagrun for Hello_World_Ulhaq to 2025-04-19 00:00:00+00:00, run_after=2025-04-20 00:00:00+00:00
+[2025-04-19T08:43:06.887+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/hello.py took 0.086 seconds
